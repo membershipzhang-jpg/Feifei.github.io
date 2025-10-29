@@ -10,3 +10,6 @@ lab*.ipynb
 # https://docs.python.org/3/library/venv.html#cmdoption-venv-without-scm-ignore-files
 .venv/
 myenv/
+
+# macOS system file
+.DS_Store
